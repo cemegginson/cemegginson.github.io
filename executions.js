@@ -28,14 +28,17 @@ function GenerateGraph(data_row, iter) {
         .attr("class", "y axis")
         .attr("transform", "translate(-25,0)")
         .call(yAxisLeft);
+    console.log(data_row);
     graph.append("svg:path").attr("d", line(data_row));
 }
 var current_graph = 1;
 d3.csv("data/cp_executed.csv", function (data) {
     for (var i in data) {
         var actual_data = [];
-        for (var j in years) {
-            actual_data.push(parseInt(data[i][j]));
+        var data_row = data[i];
+        for (var _i = 0, years_1 = years; _i < years_1.length; _i++) {
+            var j = years_1[_i];
+            actual_data.push(parseInt(data_row[j]));
         }
         GenerateGraph(actual_data, current_graph);
         current_graph++;
