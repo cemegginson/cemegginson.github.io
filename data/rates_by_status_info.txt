@@ -1,0 +1,56 @@
+Bureau of Justice Statistics "Title. Estimated number of inmates held in local
+jails or under the jurisdiction of state or federal prisons and incarceration
+rate, 1980-2014" "Data source:  Bureau of Justice Statistics, Annual Probation
+Survey, Annual Parole Survey, Annual Survey of Jails, Census of Jail Inmates,
+and National Prisoner Statistics Program, 1980-2014"
+
+Refer questions to: askbjs@usdoj.gov or 202-307-0765 Date of version: 1/12/2016
+
+"Estimated number and rate of persons supervised by U.S. adult correctional
+systems, by correctional status, 1980-2014"
+
+"Note: Estimates may not be comparable to previously published BJS tables or
+reports due to updated information. Counts were rounded to the nearest 100 and
+include estimates for nonresponding jurisdictions. Rates were rounded to the
+nearest 10. All probation, parole, prison counts and rates are for December 31;
+local jail counts and rates are for the last weekday in June. "
+
+"Total Correctional Population Note: Includes persons living in the community
+while supervised on probation or parole and inmates incarcerated in state or
+federal prisons or held in local jails. Includes adjustments made to account for
+offenders with multiple correctional statuses to prevent double counting of
+individuals: prisoners held in local jails were excluded from the total
+incarcerated and total correctional population counts; starting in 1998,
+probationers who were incarcerated in prisons or local jails were excluded from
+the total correctional population count;  starting in 2005, parolees who were
+incarcerated in prisons or local jails were excluded from the total correctional
+population count; and starting in 2008, parolees who were also on probation were
+excluded from the total community supervision and total correctional population
+counts."
+
+"Community Supervision Population Note: Includes persons living in the community
+while supervised on probation or parole and some offenders held in a prison or
+local jail but who remained under the jurisdiction of a probation or parole
+agency. Starting in 2008, parolees who were also on probation were excluded from
+the total."
+
+Incarcerated Population Note: Prisoners held in local jails were excluded from
+the total to prevent double counting.
+
+"Number in prison or local jail per 100,000 U.S. residents age 18 or older Note:
+Represents the incarceration rate which is a different statistic than the
+imprisonment rate. BJS defines the imprisonment rate as the number of prisoners
+under state or federal jurisdiction sentenced to more than 1 year per 100,000
+U.S. residents. The imprisonment rate is presented in Prisoners in 2014, NCJ
+248955, BJS web, September 2015. See that BJS report and Correctional
+Populations in the United States, 2014, NCJ 249513, BJS web, December 2015 for
+more information on the difference between the two statistics."
+
+"1998-1999 Note: Coverage of probation agencies was expanded. Therefore, the
+total correctional and community supervision estimates may not be comparable to
+prior years. "
+
+"Source:  Bureau of Justice Statistics, Annual Probation Survey, Annual Parole,
+Survey, Annual Survey of Jails, Census of Jail Inmates, and National Prisoner
+Statistics Program, 1980-2014; and U.S. Census Bureau, postcensal estimated
+resident population for January 1 of the following year, 1981-2015."

@@ -1,0 +1,16 @@
+Bureau of Justice Statistics "Report Title: Prisoners executed under civil
+authority in the United States, by year, region, and jurisdiction, 1977�2014"
+
+Data source: Capital Punishment (NPS-8) Date of Version: 8/20/2015
+
+Refer questions to; askbjs@usdoj.gov 202-207-0765 "Prisoners executed under
+civil authority in the United States, by year, region, and jurisdiction,
+1977-2014"
+
+*Preliminary counts based on publicly available data.
+
+"Source:  Bureau of *Justice Statistics, National Prisoner Statistics program
+(NPS-8), 1977-2014." *"Suggested citation:  Bureau of Justice Statistics,
+Corrections Key Statistics, *Prisoners executed under civil authority in the
+United States, by year, region, *and jurisdiction, 1977�2014, on the Internet at
+bjs.gov (visited MM,DD,YYYY)."

@@ -1,0 +1,36 @@
+{
+  "name": "incarceration_rates",
+  "version": "1.0.0",
+  "description": "Information Visualization project to visualize incarceration rates",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc && concurrently \"npm run tsc:w\" \"npm run lite\" \"scss --watch app:app\"",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "lite": "lite-server",
+    "typings": "typings",
+    "postinstall": "typings install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemegginson/incarceration_rates.git"
+  },
+  "author": "Casey Megginson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cemegginson/incarceration_rates/issues"
+  },
+  "homepage": "https://github.com/cemegginson/incarceration_rates#readme",
+  "dependencies": {
+    "d3": "^3.5.16",
+    "es6-shim": "^0.35.0",
+    "lodash": "^4.11.2",
+    "systemjs": "^0.19.26"
+  },
+  "devDependencies": {
+    "concurrently": "^2.0.0",
+    "lite-server": "^2.2.0",
+    "typescript": "^1.8.10",
+    "typings": "^0.8.1"
+  }
+}

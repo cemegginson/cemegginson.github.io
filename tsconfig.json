@@ -1,0 +1,18 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "removeComments": true
+    },
+    "exclude": [
+        "node_modules",
+        "typings/main",
+        "typings/main.d.ts"
+    ],
+    "files": [
+        "typings/browser.d.ts",
+        "executions.ts"
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    }
+}
