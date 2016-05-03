@@ -37,7 +37,7 @@ d3.csv("data/cp_executed.csv", function (data) {
         for (var j in years) {
             actual_data.push(parseInt(data[i][j]));
         }
-        GenerateGraph(data[i], current_graph);
+        GenerateGraph(actual_data, current_graph);
         current_graph++;
     }
 });
